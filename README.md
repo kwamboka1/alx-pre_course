@@ -11,7 +11,7 @@ You can apply for ALX with partinership with Holberton where they give hands on 
 visit their website for more information
 ```
 
-## What you need to join?
+## What do you need to join?
 
 ```Anyone above 18years of age can join.
 
@@ -32,4 +32,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]
