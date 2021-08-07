@@ -1,4 +1,4 @@
-# Mildred here, 
+# Mildred Makori, 
 Aspiring Software Engineer.
 What is Software Engineering?
 
